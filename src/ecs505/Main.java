@@ -14,5 +14,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("My first Git repo");
         System.out.println("me new branch");
+        System.out.println("push to upstream boi");
     }
 }
